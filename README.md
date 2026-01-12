@@ -1,26 +1,27 @@
-📌 College AI Chatbot
+## 📌 College AI Chatbot
+
 A simple College Information Chatbot built using Flask (Python) that provides instant answers to common college-related queries through a web-based chat interface.
 
+ ---
+ 
+##  🚀Features
 
-🚀 Features
+ -Interactive chatbot interface
+ 
+ -Instant responses to user queries
+ 
+ -Supports Enter key and Send button
+ 
+ -Rule-based intelligent replies
+ 
+ -Web-based (runs on browser)
+ 
+ -Easy to extend and customize
+
+ ---
 
 
-💬 Interactive chatbot interface
-
-⚡ Instant responses to user queries
-
-⌨️ Supports Enter key and Send button
-
-🧠 Rule-based intelligent replies
-
-🌐 Web-based (runs on browser)
-
-🧩 Easy to extend and customize
-
-
-
-
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Backend: Python, Flask
 
@@ -28,9 +29,9 @@ Frontend: HTML, CSS, JavaScript
 
 Tools: VS Code, GitHub
 
+---
 
-
-🧠 How It Works
+## 🧠 How It Works
 User enters a message in the chat interface
 
 JavaScript sends the message to Flask backend
@@ -39,8 +40,9 @@ Flask processes the input using rule-based logic
 
 A suitable response is returned and displayed
 
+---
 
-📈 Future Enhancements
+## 📈 Future Enhancements
 
 AI/NLP-based responses
 
@@ -52,33 +54,27 @@ Admin panel for managing responses
 
 Cloud deployment
 
+---
 
-      ** How to Run the Project Locally**
+ ## How to Run the Project Locally
 
 Clone the repository
-
- ```  Bash```
   ``` git clone https://github.com/jasleenk-404/College-AI-Chatbot.git```
   
 Navigate to project folder
-  ``` Bash```
    ```cd College-AI-Chatbot```
 Create virtual environment (optional)
 
- ```  Bash```
  ```  python -m venv env```
  
-env\Scripts\activate
+ ```  env\Scripts\activate```
 
 Install dependencies
-
-  ``` Bash```
   ``` pip install flask```
   
 Run the application
-
- ```  Bash```
  ```  python app.py```
+ 
 Open browser
-
 http://127.0.0.1:5000
+
